@@ -1,0 +1,14 @@
+{
+  "name": "claude-hooks",
+  "owner": {
+    "name": "Se0jwon"
+  },
+  "plugins": [
+    {
+      "name": "format-lint-hook",
+      "source": "./plugins/format-lint-hook",
+      "description": "Write/Edit 후 Python은 ruff, JS/HTML/CSS는 prettier로 자동 포맷팅+린트",
+      "version": "1.0.0"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "name": "format-lint-hook",
+  "description": "Write/Edit 후 Python 파일은 ruff(format+fix), JS/HTML/CSS 파일은 prettier로 자동 포맷팅+린트를 실행하는 hook",
+  "version": "1.0.0",
+  "author": {
+    "name": "Se0jwon"
+  }
+}
